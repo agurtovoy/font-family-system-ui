@@ -1,4 +1,4 @@
-# font-family-system
+# font-family-system-ui
 
 The upcoming CSS 4 specification promises us a new generic font family,
 [`system-ui`](https://drafts.csswg.org/css-fonts-4/#valdef-font-family-system-ui),
